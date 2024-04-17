@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="csf" type="csf_node" name="csf"  output="screen" />
+</launch>
